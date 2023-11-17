@@ -478,8 +478,15 @@ text-align: center;
   }
 }
 
-
-
+.tatiii {
+  padding-top: 15px;
+  border-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.btncito{
+  text-align: center;
+  font-size: 60px;
+}
 
 .tituloportal2 {
   padding-top: 10PX;
